@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A software engineering student at QUT (Australia). Major in Robotics and Software Development
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+1. Love football, especially Ronaldo and Manchester United.
+2. Study at HSGS High School in Ha Noi
+3. Interested in machine learning, AI problems and how to solve it
+4. Like travelling to many places
+5. Love basketball, espcially Curry, James and GSW. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[quanghuy.qut@gmail.com](mailto:quanghuy.qut@gmail.com)
