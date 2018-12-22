@@ -5,6 +5,14 @@ title: Blog Introduction
 
 ![Classification Task](/images/intro.jpg)
 
-This is my official blog website of a software engineering student at QUT (Brisbane, Australia). The purposes of my blog is sharing my knowledge, opinions and experiences to others on many topics that I found in my daily life. Some particular topics will include machine learning foundation(Linear Regression, Decision Tree, Optimization,..) and computer vision tutorials (ConvNet, OpenCV).
+Hi, my name is Harry, I am now a software engineering student at QUT (Brisbane, Australia). This is my first official blog website. 
+
+The purposes of my blog are sharing my knowledge, opinions and experiences to others on many technical topics that I have been interested in and activities around my life including sharing books, personal activities, lessions I have learnt so far. 
+
+Some particular topics will consist of:
+- Machine Learning & Artificial Intelligence
+- Travel Story
+- My Daily Life 
+...
 
 Stay tuned!!!
