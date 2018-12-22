@@ -11,6 +11,8 @@ The purposes of my blog are sharing my knowledge, opinions and experiences to ot
 
 Some particular topics will consist of:
 - Machine Learning & Artificial Intelligence
+- Robotics
+- Software Development
 - Travel Story
 - My Daily Life 
 ...
