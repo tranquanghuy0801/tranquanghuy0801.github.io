@@ -3,7 +3,7 @@ layout: post
 title: Blog Introduction
 ---
 
-![Classification Task](/images/intro.jpg)
+![Classification Task](/images/intro-image.jpg)
 
 Hi, my name is Harry, I am now a software engineering student at QUT (Brisbane, Australia). This is my first official blog website. 
 
