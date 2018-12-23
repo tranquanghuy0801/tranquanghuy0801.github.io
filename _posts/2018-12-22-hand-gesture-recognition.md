@@ -21,6 +21,7 @@ Three deep neural networks mentioned above include three models respectively:
 - First model: provides a hand segmentation to localize the hand in the image
 - Second model: localize hand keypoints in the 2D images
 - Third model: finally derives the 3D hand pose from the 2D keypoints
+
 This particular model segments the location of hand present in the picture and gives 21 various landmarks present in hand in 2D and 3D Cartesian Coordinates. Once we get the landmarks, the next step is build a mechanism to identify the formation it is making and classify the pose accordingly. There are several ways to achieve this, I choose the **[Directional orientation and curls of fingers](https://github.com/Prasad9/Classify-HandGesturePose)**. This approach does not need the training data or networks involved. The Cartesian Geometry is used to estimate the curl and directional orientations of various fingers and predict of hand which matches the best. The curl and directional orientations of fingers can be categorised like: 
 
 ![Curl of Finger](/images/curl-finger.png)
