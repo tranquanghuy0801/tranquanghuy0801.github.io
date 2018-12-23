@@ -15,7 +15,7 @@ In the context, I was assigned by my VRES mentor to develop a model to detect th
 
 Figure 2: The Image Output From SSD Neural Networks
 
-Next approach, I seached on Github models of hand pose estimation for hand gesture recognition. To explain, hand pose estimation is to localize 2D or 3D keypoints on hands based on Neural Networks approach for many purposes such as sign language recognition, object handover in robotics and learning from demonstration. Finally, I found a model **[Hand3D](https://github.com/lmb-freiburg/hand3d)** associated with a paper called **[Learning to Estimate 3D Hand Pose from Single RGB Images](https://arxiv.org/abs/1705.01389)**. This papper demonstrates an approach to learn full 3D hand pose estimation from single color images consisting of three deep neural networks for covering each sub task.
+Next approach, I seached on Github models of hand pose estimation for hand gesture recognition. Hand pose estimation models can provide high-level features such as 2D or 3D keypoints localization based on Neural Networks approach for many purposes such as sign language recognition, object handover in robotics and learning from demonstration. Finally, I found a model **[Hand3D](https://github.com/lmb-freiburg/hand3d)** associated with a paper called **[Learning to Estimate 3D Hand Pose from Single RGB Images](https://arxiv.org/abs/1705.01389)**. This papper demonstrates an approach to learn full 3D hand pose estimation from single color images consisting of three deep neural networks for covering each sub task.
 
 Three deep neural networks mentioned above include three models respectively:
 - First model: provides a hand segmentation to localize the hand in the image
