@@ -50,5 +50,9 @@ If any errors occur with this, send me a Pull Request at Github or my email. I w
 
 Thanks you all for reading the explaination of my work. I appreciate any feedbacks for this.
 
+References
+- C. Zimmermann and T. Brox, “Learning to Estimate 3D Hand Pose from Single RGB Images“, ICCV 2017.
+- D. Victor, "Real-time hand tracking using SSD on Tensorflow", Github Repository 2017. https://github.com/victordibia/handtracking 
+- https://github.com/Prasad9/Classify-HandGesturePose
 
 
