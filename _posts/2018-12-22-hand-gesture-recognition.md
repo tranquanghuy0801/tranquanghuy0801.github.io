@@ -36,10 +36,14 @@ Each category of curl and directional orientations needs a proportional weight f
 
 To make the project more easily accessible and well display, I have used the Flask (a web framework using Python) to make a web app demo and web app API as a service to exchange the data with the Pepper robot in our project. The complete code can be be found at my **[forked Github Hand3D](https://github.com/tranquanghuy0801/hand3d)**. 
 
-Run These On Command Line: 
-- pip install -r requirements.txt
-- python3 app.py (Web App) or python3 app_api.py (Web API and send request later)
+Run these on command line:
 
+```python
+git clone https://github.com/tranquanghuy0801/hand3d
+cd hand3d
+pip install -r requirements.txt
+python3 app.py
+```     
 If any errors occur with this, send me a Pull Request at Github or my email. I will process that in a short time. 
 
 Thanks you all for reading the explaination of my work. I appreciate any feedbacks for this.
