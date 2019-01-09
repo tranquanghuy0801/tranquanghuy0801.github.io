@@ -44,6 +44,8 @@ cd hand3d
 pip install -r requirements.txt
 python3 app.py
 ```     
+I have deployed a web service for this with the help of my supervisor of VRES program at my university. The link is http://cloudvis.qut.edu.au/gestureRecognition. Try and have fun!!!
+
 If any errors occur with this, send me a Pull Request at Github or my email. I will process that in a short time. 
 
 Thanks you all for reading the explaination of my work. I appreciate any feedbacks for this.
