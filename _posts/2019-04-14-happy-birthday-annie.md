@@ -22,7 +22,11 @@ Hope you do not feel dissapointed for this. Watch this video below before you ge
 
 3nd Gift: Behind the Scene of your birthday show by Harry 
 
-I made this video below to record what I have done to prepare for your birthday. 
+I made this video below to record what I have done to prepare for your birthday. Hope you can feel my love for you. 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uEd8x8V0mG0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Before saying goodbye, best wishes for your 20th birthday again. In your new age, I wish you will be more beautiful, hard-working, gain desirable achievements, visit lots of places with me, enjoy your life and always feel happy. Thanks!!!
+
+From Harry to Annie With Love (5/4/2019) 
 
