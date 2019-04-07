@@ -15,7 +15,11 @@ I am currently a 2nd year software engineering student at QUT (Australia). I hav
 
 ### Work Experience 
 
-* Vacation Research Student (Project: Social Verbal And Non-Verbal Human-Robot Interaction - https://github.com/tranquanghuy0801/hand3d): Under the supervision of Dr.Nicole Robinson (Faculty of Electrical Engineering & Computer Science) in a project of improving human robot interaction for Pepper robot. My task involves researching the most suitable vision methods and modifying the algorithms scripts for training data and showing the label output precisely. The project application is then deployed on GPU server for faster computation and testing the data more conveniently 
+* Vacation Research Student (Project: Social Verbal And Non-Verbal Human-Robot Interaction - **[Github Link](https://github.com/tranquanghuy0801/hand3d)**): Under the supervision of Dr.Nicole Robinson (Faculty of Electrical Engineering & Computer Science) in a project of improving human robot interaction for Pepper robot. My task involves researching the most suitable vision methods and modifying the algorithms scripts for training data and showing the label output precisely. The project application is then deployed on GPU server for faster computation and testing the data more conveniently 
+
+### Personal Projects 
+
+* Update soon...
 
 ### Contact me
 
